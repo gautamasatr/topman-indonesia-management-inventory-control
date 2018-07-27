@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36218575-5EEB-4E65-80E0-9751D0C40258}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TopmanIdManagementAndInventorycontrol</RootNamespace>
+    <AssemblyName>TopmanIdManagementAndInventorycontrol</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbConnection.cs" />
+    <Compile Include="FormAddArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddArticle.Designer.cs">
+      <DependentUpon>FormAddArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddArticleSeason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddArticleSeason.Designer.cs">
+      <DependentUpon>FormAddArticleSeason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddCategory.Designer.cs">
+      <DependentUpon>FormAddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddDepartment.Designer.cs">
+      <DependentUpon>FormAddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddItem.Designer.cs">
+      <DependentUpon>FormAddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPosition.Designer.cs">
+      <DependentUpon>FormAddPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPrice.Designer.cs">
+      <DependentUpon>FormAddPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPriceCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPriceCategory.Designer.cs">
+      <DependentUpon>FormAddPriceCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSeason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSeason.Designer.cs">
+      <DependentUpon>FormAddSeason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStaff.Designer.cs">
+      <DependentUpon>FormAddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStore.Designer.cs">
+      <DependentUpon>FormAddStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMutation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMutation.Designer.cs">
+      <DependentUpon>FormMutation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStockReplenish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStockReplenish.Designer.cs">
+      <DependentUpon>FormStockReplenish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateArticle.Designer.cs">
+      <DependentUpon>FormUpdateArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateCategory.Designer.cs">
+      <DependentUpon>FormUpdateCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateDepartment.Designer.cs">
+      <DependentUpon>FormUpdateDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdatePosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdatePosition.Designer.cs">
+      <DependentUpon>FormUpdatePosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdatePriceCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdatePriceCategory.Designer.cs">
+      <DependentUpon>FormUpdatePriceCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateSeason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateSeason.Designer.cs">
+      <DependentUpon>FormUpdateSeason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateStaff.Designer.cs">
+      <DependentUpon>FormUpdateStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateStore.Designer.cs">
+      <DependentUpon>FormUpdateStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UCArticle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCArticle.Designer.cs">
+      <DependentUpon>UCArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCArticleSeason.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCArticleSeason.Designer.cs">
+      <DependentUpon>UCArticleSeason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCCategory.Designer.cs">
+      <DependentUpon>UCCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCDepartment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDepartment.Designer.cs">
+      <DependentUpon>UCDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCItem.Designer.cs">
+      <DependentUpon>UCItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCMutation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCMutation.Designer.cs">
+      <DependentUpon>UCMutation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCPosition.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCPosition.Designer.cs">
+      <DependentUpon>UCPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCPriceCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCPriceCategory.Designer.cs">
+      <DependentUpon>UCPriceCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCPriceList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCPriceList.Designer.cs">
+      <DependentUpon>UCPriceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCSeason.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCSeason.Designer.cs">
+      <DependentUpon>UCSeason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCStaffData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCStaffData.Designer.cs">
+      <DependentUpon>UCStaffData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCStockList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCStockList.Designer.cs">
+      <DependentUpon>UCStockList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCStockTransfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCStockTransfer.Designer.cs">
+      <DependentUpon>UCStockTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCStockTransferHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCStockTransferHistory.Designer.cs">
+      <DependentUpon>UCStockTransferHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCSalesHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCSalesHistory.Designer.cs">
+      <DependentUpon>UCSalesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCStoreList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCStoreList.Designer.cs">
+      <DependentUpon>UCStoreList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCWelcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCWelcome.Designer.cs">
+      <DependentUpon>UCWelcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAddArticle.resx">
+      <DependentUpon>FormAddArticle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddArticleSeason.resx">
+      <DependentUpon>FormAddArticleSeason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddCategory.resx">
+      <DependentUpon>FormAddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddDepartment.resx">
+      <DependentUpon>FormAddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddItem.resx">
+      <DependentUpon>FormAddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPosition.resx">
+      <DependentUpon>FormAddPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPrice.resx">
+      <DependentUpon>FormAddPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPriceCategory.resx">
+      <DependentUpon>FormAddPriceCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSeason.resx">
+      <DependentUpon>FormAddSeason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStaff.resx">
+      <DependentUpon>FormAddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStore.resx">
+      <DependentUpon>FormAddStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMutation.resx">
+      <DependentUpon>FormMutation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStockReplenish.resx">
+      <DependentUpon>FormStockReplenish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateArticle.resx">
+      <DependentUpon>FormUpdateArticle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateCategory.resx">
+      <DependentUpon>FormUpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateDepartment.resx">
+      <DependentUpon>FormUpdateDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdatePosition.resx">
+      <DependentUpon>FormUpdatePosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdatePriceCategory.resx">
+      <DependentUpon>FormUpdatePriceCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateSeason.resx">
+      <DependentUpon>FormUpdateSeason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateStaff.resx">
+      <DependentUpon>FormUpdateStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateStore.resx">
+      <DependentUpon>FormUpdateStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UCArticle.resx">
+      <DependentUpon>UCArticle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCArticleSeason.resx">
+      <DependentUpon>UCArticleSeason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCCategory.resx">
+      <DependentUpon>UCCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCDepartment.resx">
+      <DependentUpon>UCDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCItem.resx">
+      <DependentUpon>UCItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCMutation.resx">
+      <DependentUpon>UCMutation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCPosition.resx">
+      <DependentUpon>UCPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCPriceCategory.resx">
+      <DependentUpon>UCPriceCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCPriceList.resx">
+      <DependentUpon>UCPriceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCSeason.resx">
+      <DependentUpon>UCSeason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCStaffData.resx">
+      <DependentUpon>UCStaffData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCStockList.resx">
+      <DependentUpon>UCStockList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCStockTransfer.resx">
+      <DependentUpon>UCStockTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCStockTransferHistory.resx">
+      <DependentUpon>UCStockTransferHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCSalesHistory.resx">
+      <DependentUpon>UCSalesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCStoreList.resx">
+      <DependentUpon>UCStoreList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCWelcome.resx">
+      <DependentUpon>UCWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
