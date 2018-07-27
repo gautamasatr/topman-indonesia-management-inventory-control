@@ -13,3 +13,4 @@ You can login using username : admin and password : admin
 
 
 Herewith screenshoot of the software :
+![alt text](https://raw.githubusercontent.com/nyomangautama/topman-indonesia-management-inventory-control/master/login.jpg)
