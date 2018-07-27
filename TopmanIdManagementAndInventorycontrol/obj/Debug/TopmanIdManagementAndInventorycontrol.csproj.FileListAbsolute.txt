@@ -1,0 +1,187 @@
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.Properties.Resources.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csproj.GenerateResource.Cache
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMain.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormLogin.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCWelcome.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStaffData.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransfer.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransferHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSalesHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStoreList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csprojResolveAssemblyReference.cache
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormStockReplenish.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csprojResolveAssemblyReference.cache
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormLogin.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMain.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormStockReplenish.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.Properties.Resources.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStaffData.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransfer.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransferHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSalesHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStoreList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCWelcome.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csproj.GenerateResource.Cache
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 8\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPrice.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csprojResolveAssemblyReference.cache
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPrice.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormLogin.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMain.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormStockReplenish.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStaff.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStore.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.Properties.Resources.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticle.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticleSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCDepartment.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCItem.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCMutation.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPosition.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceCategory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSeason.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStaffData.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransfer.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransferHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSalesHistory.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStoreList.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCWelcome.resources
+D:\Kampus\S5\PV\topmanid\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csproj.GenerateResource.Cache
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.exe
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\bin\Debug\TopmanIdManagementAndInventorycontrol.pdb
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csprojResolveAssemblyReference.cache
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticle.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddArticleSeason.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddDepartment.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddItem.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPosition.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPrice.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddPriceCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddSeason.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStaff.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormAddStore.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormLogin.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMain.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormMutation.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormStockReplenish.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateArticle.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateDepartment.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePosition.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdatePriceCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateSeason.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStaff.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.FormUpdateStore.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.Properties.Resources.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticle.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCArticleSeason.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCDepartment.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCItem.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCMutation.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPosition.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceCategory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCPriceList.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSeason.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStaffData.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockList.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransfer.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStockTransferHistory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCSalesHistory.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCStoreList.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.UCWelcome.resources
+D:\Kampus\S5\TopmanIdManagementAndInventorycontrol - BACKUP 10 INI PALING FIX SUMPAH JGN PAKE YG LAEN\TopmanIdManagementAndInventorycontrol\obj\Debug\TopmanIdManagementAndInventorycontrol.csproj.GenerateResource.Cache
